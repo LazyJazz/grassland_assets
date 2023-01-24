@@ -223,6 +223,7 @@
 			<roughness value="0.609"/>
 			<ior value="0.0"/>
 			<transmission_roughness value="1.0"/>
+			<alpha value="0.2"/>
 		</material>
 	</model>
 
